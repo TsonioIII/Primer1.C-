@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp\HelloTsonio\HelloTsonio\bin\Release\HelloTsonio.exe
+D:\aula\primeri.csharp\HelloTsonio\HelloTsonio\bin\Release\HelloTsonio.pdb
+D:\aula\primeri.csharp\HelloTsonio\HelloTsonio\obj\x86\Release\HelloTsonio.exe
+D:\aula\primeri.csharp\HelloTsonio\HelloTsonio\obj\x86\Release\HelloTsonio.pdb
